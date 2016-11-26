@@ -37,3 +37,6 @@ readonly HOST_PATH="/Documents/Kitematic/"
   ```
    $ ./run-station.bash
   ```
+
+
+[Automated Build on DockerHub](https://hub.docker.com/r/msimoneau/dev-java/)
