@@ -1,6 +1,8 @@
 **dev-java**
 
-A simple Java Development Ubuntu Workstation. This Dockerfile includes:
+A simple Java Development Ubuntu Workstation. I shared volume (/home/<user>/sources) can be used to access your container with your host editor.
+
+This Dockerfile includes:
 
   - build-essential (dpkg-dev, gcc, g++, libc-dev,make)
   - Python (Python 2.7.12 and Python 3.5.2)
