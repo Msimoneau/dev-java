@@ -1,6 +1,6 @@
 **dev-java**
 
-A simple Java Development workstation. This docker includes:
+A simple Java Development workstation. This Dockerfile includes:
 
   - build-essential (dpkg-dev, gcc, g++, libc-dev,make)
   - Python (Python 2.7.12 and Python 3.5.2)
