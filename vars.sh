@@ -3,7 +3,6 @@ readonly USER="simoneau"
 
 # The image.
 readonly DOCKER_HUB_USER="msimoneau"
-
 readonly IMAGE_NAME="dev-java"
 
 # The container name.
