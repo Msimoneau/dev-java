@@ -20,8 +20,6 @@ This Dockerfile includes:
   ```
 
 **To run it**
-
-2. Run the following commands:
   ```
    $ ./run-station.bash
   ```
