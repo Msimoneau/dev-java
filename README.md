@@ -8,7 +8,7 @@ A simple Java Development Ubuntu Workstation. This Dockerfile includes:
   - Groovy 2.4.7
   - Gradle 2.10
 
-** To use it, customize, build and run**
+**To use it, customize, build and run**
 
 1. Modify the values in vars.sh
 
