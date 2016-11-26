@@ -1,9 +1,13 @@
 # The user inside the container.
 readonly USER="simoneau"
-# Image
+
+# The image.
 readonly DOCKER_HUB_USER="msimoneau"
+
 readonly IMAGE_NAME="dev-java"
-# Container name
+
+# The container name.
 readonly STATION="dev-java-station"
-# share path with host
+
+# Shared path with the host.
 readonly HOST_PATH="/Documents/Kitematic/"
