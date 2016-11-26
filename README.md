@@ -10,13 +10,18 @@ This Dockerfile includes:
   - Groovy 2.4.7
   - Gradle 2.10
 
-**To use it, customize, build and run**
+**To install it, customize and build**
 
 1. Modify the values in vars.sh
 
 2. Run the following commands:
   ```
    $ ./build-station.bash
-   ...
+  ```
+
+**To run it**
+
+2. Run the following commands:
+  ```
    $ ./run-station.bash
   ```
