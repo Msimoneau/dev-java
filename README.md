@@ -4,7 +4,7 @@ A simple Java Development Ubuntu Workstation. The container shared a volume (/ho
 
 This Dockerfile includes:
 
-  - build-essential (dpkg-dev, gcc, g++, libc-dev,make)
+  - Build-essential (dpkg-dev, gcc, g++, libc-dev, make)
   - Python (Python 2.7.12 and Python 3.5.2)
   - Java
   - Groovy 2.4.7
