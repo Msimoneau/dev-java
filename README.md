@@ -39,4 +39,4 @@ readonly HOST_PATH="/Documents/Kitematic/"
   ```
 
 
-[Automated Build on DockerHub](https://hub.docker.com/r/msimoneau/dev-java/)
+[Automated Build on ***DockerHub***](https://hub.docker.com/r/msimoneau/dev-java/)
