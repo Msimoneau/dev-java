@@ -10,6 +10,7 @@ A simple Java Development Ubuntu Workstation. This Dockerfile includes:
 
 
 ** To use it, customize, build and run**
+
 1. Modify the values in vars.sh
 
 2. Run the following commands:
