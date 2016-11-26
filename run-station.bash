@@ -10,4 +10,4 @@ docker run -it \
            -h ${STATION} \
            --name ${STATION} \
            -v ${HOME}${HOST_PATH}${STATION}/sources/:/home/${USER}/sources/ \
-            "${DOCKER_HUB_USER}/${IAMGE_NAME}"
+            "${DOCKER_HUB_USER}/${IMAGE_NAME}"

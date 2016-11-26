@@ -2,7 +2,7 @@
 readonly USER="simoneau"
 # Image
 readonly DOCKER_HUB_USER="msimoneau"
-readonly IAMGE_NAME="dev-java"
+readonly IMAGE_NAME="dev-java"
 # Container name
 readonly STATION="dev-java-station"
 # share path with host
