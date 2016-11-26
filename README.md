@@ -1,6 +1,6 @@
 **dev-java**
 
-A simple Java Development Ubuntu Workstation. I shared volume (/home/\<user\>/sources) can be used to access your container with your host editor.
+A simple Java Development Ubuntu Workstation. The container shared a volume (/home/\<user\>/sources) that can be used to access your container sources with your preferred editor on your host.
 
 This Dockerfile includes:
 
