@@ -16,7 +16,7 @@ This Dockerfile includes:
 
 2. Run the following commands:
   ```
-   $ ./build-station.sh
+   $ ./build-station.bash
    ...
-   $ ./run-station.sh
+   $ ./run-station.bash
   ```
