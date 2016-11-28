@@ -1,8 +1,8 @@
 # The user inside the container.
-readonly USER="simoneau"
+readonly USER="admin"
 
 # The image.
-readonly DOCKER_HUB_USER="msimoneau"
+readonly DOCKER_HUB_USER="user"
 readonly IMAGE_NAME="dev-java"
 
 # The container name.
